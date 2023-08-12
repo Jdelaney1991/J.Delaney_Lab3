@@ -1,0 +1,11 @@
+.build
+.mbed
+projectfiles
+*.py*
+mbed-os
+BUILD
+
+.clangd
+.cache
+compile_commands.json
+LSM6DSL
